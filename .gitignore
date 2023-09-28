@@ -55,7 +55,7 @@ test-results.xml
 build
 Botan-*
 ROOT
-*.cmake
+
 CMakeFiles
 
 # Specifics
